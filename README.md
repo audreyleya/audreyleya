@@ -16,6 +16,6 @@
 
 **📫 How to Reach Me**
 - Email: audreyleya@gmail.com
-- LinkedIn: Audrey Gabriella Luhonge Leya
+- LinkedIn: [Audrey Gabriella Luhonge Leya](https://www.linkedin.com/in/audrey-gabriella-luhonge-leya/)
 
 ⚡ Fun Fact: I love traveling, playing the piano, and exploring how data can tell stories beyond numbers!
