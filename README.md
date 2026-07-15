@@ -1,21 +1,28 @@
-**Hi there, I’m Audrey Gabriella Luhonge Leya 👋**
+### Hi, I'm Audrey Gabriella 👋
 
-- **Who I Am:** A passionate Business Technology Management & International Management Student dedicated to transforming data into actionable insights and driving innovation. My expertise lies at the intersection of business strategy and data analytics, with hands-on experience in Python, Machine Learning, SQL, and Power BI.
-- **Global Perspective:** From Ottawa, Canada, to Singapore, where I studied at Nanyang Technological University, my academic journey has expanded my problem-solving skills and ability to thrive in dynamic, multicultural environments.
+Data Analyst & Data Scientist in progress, currently completing my **Master of Management Analytics at Rotman (University of Toronto)**
 
-**🚀 What I’m Up To**
-- Exploring: Business analytics, machine learning, and data storytelling for strategic decision-making.
-- Expertise: Certified in Data Science and Machine Learning through the MIT IDSS x GreatLearning Program, with a strong foundation in statistical analysis, clustering, and predictive modeling.
-- Looking to Collaborate On: Open-source projects, innovative data science applications, and impactful business analytics problems.
+I'm drawn to the question behind the question. Not just what the data says, but what it means and what to do about it. That's taken me through co-ops in aerospace, tech, and startups, building executive dashboards, mapping business workflows, and translating messy data into decisions.
 
-**🛠️ Skills & Tools**
-- Programming: Python (Pandas, NumPy, Seaborn, Matplotlib), SQL
-- Data Science: Machine Learning, Predictive Modeling, Clustering, Classification
-- Visualization: Power BI, Tableau, Dashboards
-- Business Tools: Excel, Snowflake, Office Suite
+**Where I'm headed:** applied data science and ML in fintech, payments, and risk — companies like Mastercard, Visa, Wealthsimple, and Interac are on my radar. I'm currently working through a self-directed prep track in Python, statistics, and Spark/Databricks ahead of my MMA start, and building out applied ML projects to go with it.
 
-**📫 How to Reach Me**
+#### Experience highlights
+- **Pratt & Whitney Canada** — architected a scalable data lake integrating 10+ sources; built executive Power BI dashboards used by senior leadership
+- **University of Ottawa** — ran 10+ stakeholder interviews to translate business requirements into system design for a university-wide migration
+- **RVezy** — customer success, 150+ tickets/week, 98% CSAT
+
+#### Skills & tools
+- **Programming:** Python (Pandas, NumPy, scikit-learn), SQL
+- **Analytics/ML:** statistics, predictive modeling, clustering — building toward production ML workflows
+- **Visualization:** Power BI, Tableau
+- **Currently learning:** Spark, Databricks
+
+#### Certifications
+- MIT IDSS — Data Science and Machine Learning: Making Data-Driven Decisions
+- Google Data Analytics Specialization
+
+#### Reach me
 - Email: audreyleya@gmail.com
-- LinkedIn: [Audrey Gabriella Luhonge Leya](https://www.linkedin.com/in/audrey-gabriella-luhonge-leya/)
+- LinkedIn: [Audrey Gabriella Luhonge Leya](https://www.linkedin.com/in/audrey-gabriella-luhonge-leya)
 
-⚡ Fun Fact: I love traveling, playing the piano, and exploring how data can tell stories beyond numbers!
+Open to conversations about data, business, and where the two meet.
